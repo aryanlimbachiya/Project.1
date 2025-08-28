@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan has more than 5 million vending machines, offering everything from drinks to umbrellas."
+  },
+  {
+    "id": 2,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1410000000,
+    "interestingFact": "India is the birthplace of chess, yoga, and the decimal system."
+  },
+  {
+    "id": 3,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 214000000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world's oxygen."
+  },
+  {
+    "id": 4,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 39000000,
+    "interestingFact": "Canada has more lakes than any other country—over 2 million!"
+  },
+  {
+    "id": 5,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 26000000,
+    "interestingFact": "Australia is the only continent covered by a single country."
+  },
+  {
+    "id": 6,
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83000000,
+    "interestingFact": "Germany is known for having over 1,500 types of sausages."
+  },
+  {
+    "id": 7,
+    "name": "South Africa",
+    "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+    "population": 60000000,
+    "interestingFact": "South Africa has three capital cities, each serving a different branch of government."
+  },
+  {
+    "id": 8,
+    "name": "France",
+    "capital": "Paris",
+    "population": 68000000,
+    "interestingFact": "France is the most visited country in the world, attracting over 90 million tourists annually."
+  },
+  {
+    "id": 9,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": 110000000,
+    "interestingFact": "The Great Pyramid of Giza was the tallest man-made structure for over 3,800 years."
+  },
+  {
+    "id": 10,
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "population": 5300000,
+    "interestingFact": "New Zealand was the first country to grant women the right to vote in 1893."
+  }
+]
